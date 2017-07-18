@@ -1,0 +1,4 @@
+#!/usr/local/bin/python3
+라마바
+사아자
+차카타
